@@ -1,7 +1,7 @@
 body{width: 500px;margin-left: auto;margin-right: auto; ;text-align: center;background-color: white;}
 h1, h2, h3, h4, h5, h6{font-family: "Montserrat", serif; font-weight: bold; margin: 1em;line-height: 1.5em;padding: 0.2em; color: #25a2c3 ;}
 h1{font-size: 2.5em; margin-top: 0%; margin-bottom: 0%;}
-h2{font-size: 1.27em;}
+h2{font-size: 1.5em;}
 p, a{margin: 0.5em;padding: 0.2em;font-family: "Open Sans", serif; line-height:1.65em ;color:#393d41}
 button{margin: 1em;background-color:#f04c2f; font-weight: bold;color:white;font-family: "Open Sans", serif; border-radius: 6px ;border-color:#f04c2f ;}
 #headerblack{background-color: black; height:5em;}
@@ -9,8 +9,9 @@ button{margin: 1em;background-color:#f04c2f; font-weight: bold;color:white;font-
 .images{max-width: 450px;}
 #imground{border-radius: 50%; width: 320px;}
 #div2{background-image: url(../images/banner.jpg);height: 300px; background-size: contain;}
-.EPI{color:white ;}
-section{background-color: #f04c2f ;margin-bottom: 5em;}
+.EPI{color:white ;font-weight: 400;font-size: 1.3em;margin-bottom: 0;}
+.EPI2{color: white;font-size: x-small;margin-top: 0;}
+section{background-color: #f04c2f ;margin-bottom: 5em;padding: 3em;}
 #garanzia{color: white;}
 .lastdiv{ border-style: solid; border-width: 1px; margin: 1.5em;border-color: #dee1e3; border-radius:1%;}
 footer{background-color: #25a2c3;}
@@ -18,6 +19,10 @@ footer h2{color: white ; font-size: 2em; padding: 0.5em 2em 0em 2em;margin-botto
 footer p{color: #c8e7f0;}
 .pf a{margin: 0;padding: 0;color: #c8e7f0;}
 .pf{margin: 0;}
-.pb{color: #c8e7f0;margin-top: 0;margin-bottom: 0.5em; border-bottom: solid; border-color: #c8e7f0;border-bottom-width: 0.1em;}
-.plast{margin-bottom: 0;}
-.plast a{color: #c8e7f0;}
+.pb{color: #c8e7f0;margin-top: 0;margin-bottom: 0.5em;}
+#riga span{border-top: solid;border-color: #c8e7f0;border-width: 0.1em;margin-top: 1em;}
+span{ color: #c8e7f0;}
+span a{color: #c8e7f0;}
+span a{margin: 0; padding: 0;}
+#fontawesome{color: #c8e7f0;}
+#rotate{transform: rotate(0.5384rad);}
