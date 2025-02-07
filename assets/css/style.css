@@ -1,4 +1,14 @@
-body{width: 50%;margin-left: auto;margin-right: auto; ;text-align: center;}
-h1, h2, h3, h4, h5, h6{font-family: "Montserrat", serif; font-weight: bold; margin: 1em;line-height: 1.5em;padding: 0.2em;}
-h1{font-size: 2em;}
-p, a{margin: 0.5em;padding: 0.3em;}
+body{width: 500px;margin-left: auto;margin-right: auto; ;text-align: center;}
+h1, h2, h3, h4, h5, h6{font-family: "Montserrat", serif; font-weight: bold; margin: 1em;line-height: 1.5em;padding: 0.2em; color: #25a2c3 ;}
+h1{font-size: 2.5em; margin-top: 0%; margin-bottom: 0%;}
+h2{font-size: 1.27em;}
+p, a{margin: 0.5em;padding: 0.2em;font-family: "Open Sans", serif; line-height:1.65em ;color:#393d41}
+button{margin: 1em;background-color:#f04c2f; font-weight: bold;color:white;font-family: "Open Sans", serif; border-radius: 6px ;border-color:#f04c2f ;}
+#headerblack{background-color: black; height:5em;}
+#Logo{width: 20%;margin-top: 1em;}
+.images{max-width: 500px;}
+#imground{border-radius: 50%;}
+#div2{background-image: url(../images/banner.jpg);height: 300px; background-size: contain;}
+.EPI{color:white ;}
+section{background-color: #f04c2f ;margin-bottom: 5em;}
+#garanzia{color: white;}
