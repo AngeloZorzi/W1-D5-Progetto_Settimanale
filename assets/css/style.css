@@ -3,7 +3,7 @@ h1, h2, h3, h4, h5, h6{font-family: "Montserrat", serif; font-weight: bold; marg
 h1{font-size: 2.5em; margin-top: 0%; margin-bottom: 0%;}
 h2{font-size: 1.5em;}
 p, a{margin: 0.5em;padding: 0.2em;font-family: "Open Sans", serif; line-height:1.65em ;color:#393d41}
-button{margin: 1em;background-color:#f04c2f; font-weight: bold;color:white;font-family: "Open Sans", serif; border-radius: 6px ;border-color:#f04c2f ;}
+button{border: 0;margin: 1em;background-color:#f04c2f; font-weight: bold;color:white;font-family: "Open Sans", serif; border-radius: 6px ;border-color:#f04c2f ;}
 #headerblack{background-color: black; height:5em;}
 #Logo{width: 20%;margin-top: 1em;}
 .images{max-width: 450px;}
